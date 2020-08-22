@@ -1,0 +1,34 @@
+[
+  {
+    "ID": "1",
+    "NomRecette": "Foccacia",
+    "Farine": "100",
+    "Eau": "80",
+    "Levain": "30",
+    "Sel": "2.5"
+  },
+  {
+    "ID": "2",
+    "NomRecette": "Pain blanc classique",
+    "Farine": "100",
+    "Eau": "65",
+    "Levain": "20",
+    "Sel": "2"
+  },
+  {
+    "ID": "3",
+    "NomRecette": "Pâte à pizza",
+    "Farine": "100",
+    "Eau": "70",
+    "Levain": "20",
+    "Sel": "2"
+  },
+  {
+    "ID": "4",
+    "NomRecette": "Pain complet",
+    "Farine": "100",
+    "Eau": "75",
+    "Levain": "30",
+    "Sel": "2"
+  }
+]
