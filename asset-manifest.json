@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/breadcalculator/static/css/main.595c9fd3.chunk.css",
+    "main.js": "/breadcalculator/static/js/main.782770f7.chunk.js",
+    "main.js.map": "/breadcalculator/static/js/main.782770f7.chunk.js.map",
+    "runtime-main.js": "/breadcalculator/static/js/runtime-main.20ef6f23.js",
+    "runtime-main.js.map": "/breadcalculator/static/js/runtime-main.20ef6f23.js.map",
+    "static/js/2.8628dc85.chunk.js": "/breadcalculator/static/js/2.8628dc85.chunk.js",
+    "static/js/2.8628dc85.chunk.js.map": "/breadcalculator/static/js/2.8628dc85.chunk.js.map",
+    "index.html": "/breadcalculator/index.html",
+    "precache-manifest.3f16c8b03f871117014f80775cd82baf.js": "/breadcalculator/precache-manifest.3f16c8b03f871117014f80775cd82baf.js",
+    "service-worker.js": "/breadcalculator/service-worker.js",
+    "static/css/main.595c9fd3.chunk.css.map": "/breadcalculator/static/css/main.595c9fd3.chunk.css.map",
+    "static/js/2.8628dc85.chunk.js.LICENSE.txt": "/breadcalculator/static/js/2.8628dc85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ef6f23.js",
+    "static/js/2.8628dc85.chunk.js",
+    "static/css/main.595c9fd3.chunk.css",
+    "static/js/main.782770f7.chunk.js"
+  ]
+}
